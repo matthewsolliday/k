@@ -1,0 +1,1 @@
+Media files like video, screenshots, and so on, go here.
